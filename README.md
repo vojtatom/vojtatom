@@ -3,6 +3,7 @@ WebGL, Typescript, Geospatial data
 
 - [discord](http://discordapp.com/users/677925589599911936)
 - [mail](mailto:hello@vojtatom.cz)
+- [website](https://vojtatom.cz)
 
 ---
 <sup>
