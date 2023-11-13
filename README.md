@@ -6,16 +6,14 @@
 <img style="width: 19%" src="images/metacityService.png">
 </div>
 
-### @vojtatom here ✨
+<br>
 
-<pre>
-WebGL, Typescript, Geospatial data
-</pre>
+@vojtatom here ✨ WebGL, Typescript, Geospatial data
 
 Links:
 
 - [flocking.cpp - repo and article exploring the flocking algorithm](https://vojtatom.github.io/flocking.cpp/)
-- [metacity tools](https://metacity.cc)
+- [metacity tools - urban data visualization](https://metacity.cc)
 - [ni-ccc course at FIT CTU in Prague](https://ni-ccc.github.io)
 
 How to reach me:
