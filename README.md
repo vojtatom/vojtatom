@@ -14,7 +14,10 @@ WebGL, Typescript, Geospatial data
 
 Links:
 
-- [The flocking article](https://vojtatom.github.io/flocking.cpp/)
+- [🦆 flocking.cpp](https://vojtatom.github.io/flocking.cpp/) article exploring the flocking algorithm
+
+How to reach me:
+
 - [discord](http://discordapp.com/users/677925589599911936)
 - [mail](mailto:hello@vojtatom.cz)
 
