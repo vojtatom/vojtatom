@@ -6,9 +6,15 @@
 <img style="width: 19%" src="images/metacityService.png">
 </div>
 
-@vojtatom here ✨
-WebGL, Typescript, Geospatial data
+### @vojtatom here ✨
 
+<pre>
+WebGL, Typescript, Geospatial data
+</pre>
+
+Links:
+
+- [The flocking article](https://vojtatom.github.io/flocking.cpp/)
 - [discord](http://discordapp.com/users/677925589599911936)
 - [mail](mailto:hello@vojtatom.cz)
 
