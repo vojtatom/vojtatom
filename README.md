@@ -15,6 +15,8 @@ WebGL, Typescript, Geospatial data
 Links:
 
 - [flocking.cpp - repo and article exploring the flocking algorithm](https://vojtatom.github.io/flocking.cpp/)
+- [metacity tools](https://metacity.cc)
+- [ni-ccc course at FIT CTU in Prague](https://ni-ccc.github.io)
 
 How to reach me:
 
