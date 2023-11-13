@@ -1,9 +1,9 @@
 <div style="margin-bottom: 2rem">
-    <img style="width: 18%" src="images/creation.png">
-    <img style="width: 18%" src="images/flocking.png">
-    <img style="width: 18%" src="images/flow.png">
-    <img style="width: 18%" src="images/metacity.png">
-    <img style="width: 18%" src="images/metacityService.png">
+    <img style="width: 19%" src="images/creation.png">
+    <img style="width: 19%" src="images/flocking.png">
+    <img style="width: 19%" src="images/flow.png">
+    <img style="width: 19%" src="images/metacity.png">
+    <img style="width: 19%" src="images/metacityService.png">
 </div>
 
 @vojtatom here ✨
