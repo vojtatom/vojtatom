@@ -1,9 +1,9 @@
-<div style="display: flex; flex-flow: row; width: 100%; flex-wrap: nowrap; margin-bottom: 1rem">
-    <img style="flex-basis: 0; flex-grow: 1; object-fit: cover; width: 100%; height: auto;" src="images/creation.png">
-    <img style="flex-basis: 0; flex-grow: 1; object-fit: cover; width: 100%; height: auto;" src="images/flocking.png">
-    <img style="flex-basis: 0; flex-grow: 1; object-fit: cover; width: 100%; height: auto;" src="images/flow.png">
-    <img style="flex-basis: 0; flex-grow: 1; object-fit: cover; width: 100%; height: auto;" src="images/metacity.png">
-    <img style="flex-basis: 0; flex-grow: 1; object-fit: cover; width: 100%; height: auto;" src="images/metacityService.png">
+<div>
+    <img style="width: 18%" src="images/creation.png">
+    <img style="width: 18%" src="images/flocking.png">
+    <img style="width: 18%" src="images/flow.png">
+    <img style="width: 18%" src="images/metacity.png">
+    <img style="width: 18%" src="images/metacityService.png">
 </div>
 
 @vojtatom here ✨
