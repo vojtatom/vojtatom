@@ -1,8 +1,10 @@
+<div>
 <img style="width: 19%" src="images/creation.png">
 <img style="width: 19%" src="images/flocking.png">
 <img style="width: 19%" src="images/flow.png">
 <img style="width: 19%" src="images/metacity.png">
 <img style="width: 19%" src="images/metacityService.png">
+</div>
 
 @vojtatom here ✨
 WebGL, Typescript, Geospatial data
