@@ -1,8 +1,8 @@
-<img style="width: 19%; maring-bottom: 2rem" src="images/creation.png">
-<img style="width: 19%; maring-bottom: 2rem" src="images/flocking.png">
-<img style="width: 19%; maring-bottom: 2rem" src="images/flow.png">
-<img style="width: 19%; maring-bottom: 2rem" src="images/metacity.png">
-<img style="width: 19%; maring-bottom: 2rem" src="images/metacityService.png">
+<img style="width: 19%" src="images/creation.png">
+<img style="width: 19%" src="images/flocking.png">
+<img style="width: 19%" src="images/flow.png">
+<img style="width: 19%" src="images/metacity.png">
+<img style="width: 19%" src="images/metacityService.png">
 
 @vojtatom here ✨
 WebGL, Typescript, Geospatial data
