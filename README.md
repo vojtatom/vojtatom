@@ -10,11 +10,12 @@
 
 @vojtatom here ✨ WebGL, Typescript, Geospatial data
 
-Links:
+Some of my projects:
 
 - [flocking.cpp - repo and article exploring the flocking algorithm](https://vojtatom.github.io/flocking.cpp/)
-- [metacity tools - urban data visualization](https://metacity.cc)
-- [ni-ccc course at FIT CTU in Prague](https://ni-ccc.github.io)
+- [numflow.py - repo and article exploring vector data visualization](https://vojtatom.github.io/numflow.py/)
+- [metacity - urban data visualization](https://metacity.cc)
+
 
 How to reach me:
 
@@ -22,6 +23,6 @@ How to reach me:
 - [mail](mailto:hello@vojtatom.cz)
 
 ---
-
+  
 <sup>
-FIT CTU students who want access to NI-CCC course repo, please message me on discord, I'll be happy to assist you thank you </sup>
+FIT CTU students who want access to <a href="https://ni-ccc.github.io">ni-ccc course repo at FIT CTU in Prague</a>, please message me on discord, I'll be happy to assist you, thank you </sup>
