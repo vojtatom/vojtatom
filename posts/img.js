@@ -17,5 +17,7 @@ window.onload = () => {
       frame.appendChild(image);
       s.appendChild(frame);
     };
+
+    i.classList.add("clickable");
   }
 };

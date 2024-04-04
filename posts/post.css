@@ -374,7 +374,7 @@ ol.resources a {
   background: #fff;
 }
 
-.clickableImages img {
+img.clickable {
   cursor: pointer;
 }
 
