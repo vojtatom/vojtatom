@@ -8,9 +8,9 @@
 
 <br>
 
-@vojtatom here ✨ WebGL, Typescript, Geospatial data
+@vojtatom here
 
-Some of my projects:
+Some links:
 
 - [flocking.cpp - repo and article exploring the flocking algorithm](https://vojtatom.github.io/flocking.cpp/)
 - [numflow.py - repo and article exploring vector data visualization](https://vojtatom.github.io/numflow.py/)
